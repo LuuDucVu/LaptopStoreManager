@@ -1,0 +1,3 @@
+﻿  19120433.cpp
+D:\Disk VS\finalproject\LaptopStoreManager\finalproject\19120433.cpp(41,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  finalproject.vcxproj -> D:\Disk VS\finalproject\LaptopStoreManager\x64\Debug\finalproject.exe
